@@ -1,6 +1,6 @@
 # s.OS
 
-> *Save Our Souls — or something deeper.*  
+> *Save Our Souls*  
 > *Legacy of the One Who’ll Be There.*
 
 Welcome to **s.OS** — a lightweight, Arch-based Linux distribution forged in simplicity, shaped by suffering, and built for those who need to take back control.  
