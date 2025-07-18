@@ -68,4 +68,4 @@ See the [LICENSE](./LICENSE) file for full terms.
 
 **Welcome to s.OS.  
 If you're reading this...  
-You're not alone.**
+You're not alone in this.**
