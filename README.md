@@ -20,8 +20,8 @@ This OS is, planned to be the next debian **killer**, for the very reason debian
 - Optimized for speed, silence, and customization
 
 ### Base
-- Built on **Tiny Core Linux** 64-bit (CorePure64)
-- Full manual build — no bloated distros, just Linux from near-scratch
+- Built on **Tiny Core Linux** 64-bit
+- Just Linux from near-scratch made to work for **you**
 
 ### License
 This project is licensed under the **GNU General Public License v3.0**.  
