@@ -10,7 +10,7 @@ This project is in early development. The goal is to create an ultra-lean system
 
 Because sometimes, systems shouldn't just run.  
 They should **remember**.  
-This OS is more than code — it’s **a tribute**, a tool, and a **testament**.
+This OS is, planned to be the next debian **killer**, for the very reason debian was made
 
 ### Features (Planned)
 - Lightweight CLI-first experience
