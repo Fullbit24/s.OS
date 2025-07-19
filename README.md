@@ -70,4 +70,4 @@ See the [LICENSE](./LICENSE) file for full terms.
 If you're reading this...  
 You're not alone in this.**
 
-note: the root user named root, has the password root. and the default user sOS has the password, helpme
+note: the root user named root, has the password root. and the default user arch has the password, helpme
