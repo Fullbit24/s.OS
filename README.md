@@ -69,4 +69,5 @@ See the [LICENSE](./LICENSE) file for full terms.
 **Welcome to s.OS.  
 If you're reading this...  
 You're not alone in this.**
+
 note: the root user named root, has the password root. and the default user sOS has the password, helpme
